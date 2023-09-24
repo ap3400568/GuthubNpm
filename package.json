@@ -1,0 +1,27 @@
+{
+  "name": "com.mayaaverse.foundation",
+  "displayName": "Mayaa Verse Testing",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Foundation package is a collection of utility methods, design patterns, and extensions for Unity.",
+  "keywords": [
+         "pattern",
+         "utility",
+         "unity",
+         "stansassets"
+     ],
+  "homepage": "https://api.stansassets.com/",
+  "bugs": {
+     "url": "https://github.com/StansAssets/com.stansassets.foundation/issues"
+   },
+  "repository": {
+      "type": "git",
+      "url": "ssh://git@github.com:ap3400568/GuthubNpm.git"
+  },
+  "license": "MIT",
+  "author": {
+          "name": "amit",
+          "email": "ap3400568@gmail.com",
+          "url": "https://google.com/"
+    }
+}
