@@ -1,2 +1,2 @@
 registry=https://npm.pkg.github.com/@ap3400568
-//npm.pkg.github.com/:_authToken=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
+//npm.pkg.github.com/:_authToken=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

@@ -1,7 +1,7 @@
 {
   "name": "com.mayaaverse.foundation",
   "displayName": "Mayaa Verse Testing",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "unity": "2019.3",
   "description": "Foundation package is a collection of utility methods, design patterns, and extensions for Unity.",
   "keywords": [
