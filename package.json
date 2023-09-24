@@ -18,6 +18,9 @@
       "type": "git",
       "url": "ssh://git@github.com:ap3400568/GuthubNpm.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ap3400568"
+  },
   "license": "MIT",
   "author": {
           "name": "amit",
